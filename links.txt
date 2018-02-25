@@ -1,0 +1,12 @@
+1.) Live Data query getting data in
+	https://www.nseindia.com/live_market/dynaContent/live_watch/stock_watch/niftyStockWatch.json
+	https://www.nseindia.com/homepage/Indices1.json // indices data
+
+2) international indexes
+	https://liveindex.org/widget/300-light.php --> all international indexes  widgets
+	https://liveindex.org/commodities/ --> commodities //index_table
+			      /commodities --> Futures //index_table
+3)
+
+
+
