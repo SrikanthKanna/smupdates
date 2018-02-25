@@ -6,7 +6,7 @@
 	https://liveindex.org/widget/300-light.php --> all international indexes  widgets
 	https://liveindex.org/commodities/ --> commodities //index_table
 			      /commodities --> Futures //index_table
-3)
-
+3) https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/ajaxFOGetQuoteJSON.jsp?underlying=SBIN&instrument=FUTSTK&expiry=28MAR2018&type=SELECT&strike=SELECT
+    (derivative data)
 
 
